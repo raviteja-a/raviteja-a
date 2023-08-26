@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @raviteja
+- 👋 Hi, I’m @ravitejaajjapaga
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning Full Stack Developer
 - 📫 How to reach me through email \ravitejaajjapaga@gmail.com
